@@ -13,3 +13,7 @@ MemoryCaptures/
 *.csproj
 *.sln
 *.slnx
+.vscode/
+*.csproj
+*.sln
+*.slnx
